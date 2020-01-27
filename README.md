@@ -11,7 +11,7 @@ An API for the BusSaver mobile app. Wraps around LTA's Bus Services API but only
 
 **Example: Get metadata of incoming buses of the bus 4 service at "Bef Changi Prison Cplx"**
 
-`https://bus-saver-server.herokuapp.com/incoming-buses/97331/4`
+https://bus-saver-server.herokuapp.com/incoming-buses/97331/4
 
 **Response**
 
